@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /*.json.gz$
+
+Sitemap: https://prog815.github.io/invest-advisers-registry/sitemap.xml
